@@ -1,0 +1,29 @@
+input {
+  border: 0;
+  border-radius: 5px;
+  color: rgb(109, 109, 109);
+  text-align: center;
+}
+
+.btn-submit {
+  background-color: rgb(100, 100, 100);
+  border: 0;
+  border-radius: 10px;
+  color: white;
+  font-size: large;
+  font-weight: 800;
+  height: 40px;
+  width: 80px;
+}
+
+.login {
+  align-items: center;
+  background: rgba(236, 137, 0, 0.44);
+  border-radius: 15px;
+  display: flex;
+  flex-flow: column wrap;
+  height: 180px;
+  justify-content: space-evenly;
+  max-width: 300px;
+  padding: 10px;
+}

@@ -1,0 +1,10 @@
+body {
+  align-content: center;
+  background: linear-gradient(to bottom, rgb(255, 197, 120) 10%, rgb(251, 163, 48) 90%);
+  display: flex;
+  flex-flow: column wrap;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
